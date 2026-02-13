@@ -1,4 +1,4 @@
-# 💖 Project: For Your Eyes Only
+# Project: For Your Eyes Only
 
 This repository contains a digital Valentine’s surprise. It was built with a specific set of hardware requirements—specifically, a heart that matches mine.
 
